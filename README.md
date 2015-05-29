@@ -13,6 +13,6 @@ http://www.infogob.com.pe/Complementos/basedatos.aspx
 La verdad es una pena que no la den en un formato que facilite el intercambio. Hasta en CSV habría sido mas facil convertir a JSON.
 
 ## Cita requerida por el repositorio de donde se extrajo esta data:
-
+```
 INFOgob-Jurado Nacional de Elecciones (2015). Elecciones Regionales y Municipales 2014 [base de datos en línea]. Fecha de consulta: marzo del 2015. Disponible en: <http://infogob.com.pe/Complementos/basedatos.aspx>
-
+```
